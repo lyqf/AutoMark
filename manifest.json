@@ -1,12 +1,15 @@
 {
   "manifest_version": 3,
   "name": "AutoMark",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "AutoMark: Intelligently organize your Chrome bookmarks using AI.",
   "permissions": [
     "bookmarks",
     "storage",
     "downloads"
+  ],
+  "host_permissions": [
+    "<all_urls>"
   ],
   "icons": {
     "16": "src/assets/icons/icon16.png",

@@ -6,6 +6,21 @@
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/automark/fidibpojnjiakkgfhbpfekibdgdgafce?hl=zh-CN&utm_source=ext_sidebar)
 
+<p align="center">
+  <img src="store-assets/promo_large_1400x560.png" width="100%" alt="AutoMark Promotional Banner">
+</p>
+
+<table align="center" style="border:none; border-collapse:collapse; background:transparent;">
+  <tr style="border:none; background:transparent;">
+    <td align="center" style="border:none; background:transparent; padding: 10px;">
+      <img src="store-assets/screenshot_main.png" alt="Main Interface" width="100%">
+    </td>
+    <td align="center" style="border:none; background:transparent; padding: 10px;">
+      <img src="store-assets/screenshot_review.png" alt="Review Changes Interface" width="100%">
+    </td>
+  </tr>
+</table>
+
 AutoMark 是一款支持 Chromium 浏览器（Chrome, Edge, Brave 等）的扩展。它利用大语言模型（OpenAI GPT-4, Google Gemini, DeepSeek 等）来理解您的书签内容，帮助您自动分类、重命名和清理，让书签栏保持井井有条。
 
 ## ✨ 核心功能
@@ -61,6 +76,14 @@ AutoMark 是一款支持 Chromium 浏览器（Chrome, Edge, Brave 等）的扩�
 ## 🛠️ 排查问题
 *   **操作反馈**：在整理过程中，控制台会实时显示当前的操作（如归档了多少链接）。
 *   **详细日志**：如果遇到未知错误，请查看设置页面左下角的 **“系统日志”** 区域，这里记录了详细的 API 通信和网络状态，便于排查问题。
+
+---
+
+## 📈 趋势与成长
+
+如果你觉得 AutoMark 对你有帮助，无论是整理了堆积如山的书签，还是为你节省了时间，请给这个项目点个 **Star ⭐️** 吧！你的支持是我最大的动力！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=narcotics0507/AutoMark&type=Date)](https://star-history.com/#narcotics0507/AutoMark&Date)
 
 ---
 
